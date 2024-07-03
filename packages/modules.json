@@ -3,9 +3,7 @@
     "path": "vue/src/action-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ActionMenuPc": {
     "path": "vue/src/action-menu/src/pc.vue",
@@ -16,10 +14,7 @@
     "path": "vue/src/action-sheet/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile"
-    ]
+    "mode": ["mobile-first", "mobile"]
   },
   "ActionSheetMobile": {
     "path": "vue/src/action-sheet/src/mobile.vue",
@@ -35,11 +30,7 @@
     "path": "vue/src/alert/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "AlertMobile": {
     "path": "vue/src/alert/src/mobile.vue",
@@ -60,10 +51,7 @@
     "path": "vue/src/amount/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "AmountMobileFirst": {
     "path": "vue/src/amount/src/mobile-first.vue",
@@ -79,9 +67,7 @@
     "path": "vue/src/anchor/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "AnchorPc": {
     "path": "vue/src/anchor/src/pc.vue",
@@ -92,9 +78,7 @@
     "path": "vue/src/area/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "AreaPc": {
     "path": "vue/src/area/src/pc.vue",
@@ -105,9 +89,7 @@
     "path": "vue/src/async-flowchart/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "AsyncFlowchartMobileFirst": {
     "path": "vue/src/async-flowchart/src/mobile-first.vue",
@@ -118,9 +100,7 @@
     "path": "vue/src/autocomplete/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "AutocompletePc": {
     "path": "vue/src/autocomplete/src/pc.vue",
@@ -136,19 +116,13 @@
     "path": "vue/src/avatar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "Badge": {
     "path": "vue/src/badge/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "BadgeMobile": {
     "path": "vue/src/badge/src/mobile.vue",
@@ -174,17 +148,13 @@
     "path": "vue/src/breadcrumb/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "BreadcrumbItem": {
     "path": "vue/src/breadcrumb-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "BreadcrumbItemPc": {
     "path": "vue/src/breadcrumb-item/src/pc.vue",
@@ -200,9 +170,7 @@
     "path": "vue/src/bulletin-board/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "BulletinBoardPc": {
     "path": "vue/src/bulletin-board/src/pc.vue",
@@ -213,19 +181,13 @@
     "path": "vue/src/button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "ButtonGroup": {
     "path": "vue/src/button-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ButtonGroupPc": {
     "path": "vue/src/button-group/src/pc.vue",
@@ -251,17 +213,13 @@
     "path": "vue/src/calendar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "CalendarBar": {
     "path": "vue/src/calendar-bar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "CalendarBarMobileFirst": {
     "path": "vue/src/calendar-bar/src/mobile-first.vue",
@@ -277,10 +235,7 @@
     "path": "vue/src/calendar-view/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CalendarViewMobileFirst": {
     "path": "vue/src/calendar-view/src/mobile-first.vue",
@@ -296,19 +251,13 @@
     "path": "vue/src/card/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CardGroup": {
     "path": "vue/src/card-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CardGroupMobileFirst": {
     "path": "vue/src/card-group/src/mobile-first.vue",
@@ -334,9 +283,7 @@
     "path": "vue/src/card-template/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "CardTemplatePc": {
     "path": "vue/src/card-template/src/pc.vue",
@@ -347,19 +294,13 @@
     "path": "vue/src/carousel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CarouselItem": {
     "path": "vue/src/carousel-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CarouselItemMobileFirst": {
     "path": "vue/src/carousel-item/src/mobile-first.vue",
@@ -385,19 +326,13 @@
     "path": "vue/src/cascader/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CascaderMenu": {
     "path": "vue/src/cascader-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CascaderMenuMobileFirst": {
     "path": "vue/src/cascader-menu/src/mobile-first.vue",
@@ -413,9 +348,7 @@
     "path": "vue/src/cascader-mobile/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "CascaderMobileFirst": {
     "path": "vue/src/cascader/src/mobile-first.vue",
@@ -426,10 +359,7 @@
     "path": "vue/src/cascader-node/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CascaderNodeMobileFirst": {
     "path": "vue/src/cascader-node/src/mobile-first.vue",
@@ -445,10 +375,7 @@
     "path": "vue/src/cascader-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CascaderPanelMobileFirst": {
     "path": "vue/src/cascader-panel/src/mobile-first.vue",
@@ -469,9 +396,7 @@
     "path": "vue/src/cascader-select/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "CascaderSelectMobileFirst": {
     "path": "vue/src/cascader-select/src/mobile-first.vue",
@@ -482,17 +407,13 @@
     "path": "vue/src/cascader-view/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "Cell": {
     "path": "vue/src/cell/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "Chart": {
     "path": "vue/src/chart/index.ts",
@@ -613,19 +534,13 @@
     "path": "vue/src/checkbox/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "CheckboxButton": {
     "path": "vue/src/checkbox-button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "CheckboxButtonPc": {
     "path": "vue/src/checkbox-button/src/pc.vue",
@@ -636,11 +551,7 @@
     "path": "vue/src/checkbox-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "CheckboxGroupMobile": {
     "path": "vue/src/checkbox-group/src/mobile.vue",
@@ -676,9 +587,7 @@
     "path": "vue/src/col/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ColPc": {
     "path": "vue/src/col/src/pc.vue",
@@ -689,19 +598,13 @@
     "path": "vue/src/collapse/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CollapseItem": {
     "path": "vue/src/collapse-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CollapseItemMobileFirst": {
     "path": "vue/src/collapse-item/src/mobile-first.vue",
@@ -727,18 +630,13 @@
     "path": "vue/src/collapse-transition/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ColorPicker": {
     "path": "vue/src/color-picker/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile", "pc"]
   },
   "ColorPickerMobile": {
     "path": "vue/src/color-picker/src/mobile.vue",
@@ -754,9 +652,7 @@
     "path": "vue/src/color-select-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ColorSelectPanelPc": {
     "path": "vue/src/color-select-panel/src/pc.vue",
@@ -767,17 +663,13 @@
     "path": "vue/src/column-list-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "ColumnListItem": {
     "path": "vue/src/column-list-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "Common": {
     "path": "vue-common/src/index.ts",
@@ -788,9 +680,7 @@
     "path": "vue/src/company/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "CompanyPc": {
     "path": "vue/src/company/src/pc.vue",
@@ -806,10 +696,7 @@
     "path": "vue/src/container/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile", "pc"]
   },
   "ContainerMobile": {
     "path": "vue/src/container/src/mobile.vue",
@@ -825,9 +712,7 @@
     "path": "vue/src/country/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "CountryPc": {
     "path": "vue/src/country/src/pc.vue",
@@ -838,18 +723,13 @@
     "path": "vue/src/crop/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Currency": {
     "path": "vue/src/currency/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "CurrencyMobileFirst": {
     "path": "vue/src/currency/src/mobile-first.vue",
@@ -865,10 +745,7 @@
     "path": "vue/src/date-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "DatePanelMobileFirst": {
     "path": "vue/src/date-panel/src/mobile-first.vue",
@@ -884,10 +761,7 @@
     "path": "vue/src/date-picker/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile", "pc"]
   },
   "DatePickerMobile": {
     "path": "vue/src/date-picker/src/mobile.vue",
@@ -908,10 +782,7 @@
     "path": "vue/src/date-range/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "DateRangeMobileFirst": {
     "path": "vue/src/date-range/src/mobile-first.vue",
@@ -927,10 +798,7 @@
     "path": "vue/src/date-table/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "DateTableMobileFirst": {
     "path": "vue/src/date-table/src/mobile-first.vue",
@@ -946,9 +814,7 @@
     "path": "vue/src/dept/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DeptPc": {
     "path": "vue/src/dept/src/pc.vue",
@@ -974,11 +840,7 @@
     "path": "vue/src/dialog-box/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "DialogBoxMobile": {
     "path": "vue/src/dialog-box/src/mobile.vue",
@@ -999,9 +861,7 @@
     "path": "vue/src/dialog-select/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DialogSelectPc": {
     "path": "vue/src/dialog-select/src/pc.vue",
@@ -1012,9 +872,7 @@
     "path": "vue/src/divider/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DividerPc": {
     "path": "vue/src/divider/src/pc.vue",
@@ -1025,10 +883,7 @@
     "path": "vue/src/drawer/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "DrawerMobileFirst": {
     "path": "vue/src/drawer/src/mobile-first.vue",
@@ -1044,9 +899,7 @@
     "path": "vue/src/drop-roles/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DropRolesPc": {
     "path": "vue/src/drop-roles/src/pc.vue",
@@ -1057,9 +910,7 @@
     "path": "vue/src/drop-times/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DropTimesPc": {
     "path": "vue/src/drop-times/src/pc.vue",
@@ -1070,20 +921,13 @@
     "path": "vue/src/dropdown/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "DropdownItem": {
     "path": "vue/src/dropdown-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "DropdownItemMobile": {
     "path": "vue/src/dropdown-item/src/mobile.vue",
@@ -1104,11 +948,7 @@
     "path": "vue/src/dropdown-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "DropdownMenuMobile": {
     "path": "vue/src/dropdown-menu/src/mobile.vue",
@@ -1139,17 +979,13 @@
     "path": "vue/src/dynamic-scroller/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DynamicScrollerItem": {
     "path": "vue/src/dynamic-scroller-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "DynamicScrollerItemPc": {
     "path": "vue/src/dynamic-scroller-item/src/pc.vue",
@@ -1165,9 +1001,7 @@
     "path": "vue/src/espace/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "EspacePc": {
     "path": "vue/src/espace/src/pc.vue",
@@ -1178,10 +1012,7 @@
     "path": "vue/src/exception/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile"
-    ]
+    "mode": ["mobile-first", "mobile"]
   },
   "ExceptionMobile": {
     "path": "vue/src/exception/src/mobile.vue",
@@ -1197,9 +1028,7 @@
     "path": "vue/src/fall-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "FallMenuPc": {
     "path": "vue/src/fall-menu/src/pc.vue",
@@ -1210,11 +1039,7 @@
     "path": "vue/src/file-upload/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "FileUploadMobile": {
     "path": "vue/src/file-upload/src/mobile.vue",
@@ -1235,17 +1060,13 @@
     "path": "vue/src/filter/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "FilterBar": {
     "path": "vue/src/filter-bar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "FilterBarMobileFirst": {
     "path": "vue/src/filter-bar/src/mobile-first.vue",
@@ -1256,9 +1077,7 @@
     "path": "vue/src/filter-box/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "FilterMobileFirst": {
     "path": "vue/src/filter/src/mobile-first.vue",
@@ -1269,17 +1088,13 @@
     "path": "vue/src/filter-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "FloatButton": {
     "path": "vue/src/float-button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "FloatButtonPc": {
     "path": "vue/src/float-button/src/pc.vue",
@@ -1290,9 +1105,7 @@
     "path": "vue/src/floatbar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "FloatbarPc": {
     "path": "vue/src/floatbar/src/pc.vue",
@@ -1303,9 +1116,7 @@
     "path": "vue/src/floating-button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "FloatingButtonMobileFirst": {
     "path": "vue/src/floating-button/src/mobile-first.vue",
@@ -1316,10 +1127,7 @@
     "path": "vue/src/flowchart/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "FlowchartMobileFirst": {
     "path": "vue/src/flowchart/src/mobile-first.vue",
@@ -1335,20 +1143,13 @@
     "path": "vue/src/form/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "FormItem": {
     "path": "vue/src/form-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "FormItemLabelWrap": {
     "path": "vue/src/form-item/src/label-wrap.ts",
@@ -1384,9 +1185,7 @@
     "path": "vue/src/fullscreen/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Grid": {
     "path": "vue/src/grid/index.ts",
@@ -1412,9 +1211,7 @@
     "path": "vue/src/guide/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "GuidePc": {
     "path": "vue/src/guide/src/pc.vue",
@@ -1425,9 +1222,7 @@
     "path": "vue/src/hrapprover/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "HrapproverPc": {
     "path": "vue/src/hrapprover/src/pc.vue",
@@ -1448,10 +1243,7 @@
     "path": "vue/src/image/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "ImageMobileFirst": {
     "path": "vue/src/image/src/mobile-first.vue",
@@ -1467,11 +1259,7 @@
     "path": "vue/src/image-viewer/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "ImageViewerMobile": {
     "path": "vue/src/image-viewer/src/mobile.vue",
@@ -1492,9 +1280,7 @@
     "path": "vue/src/index-bar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "IndexBarAnchor": {
     "path": "vue/src/index-bar-anchor/index.ts",
@@ -1510,11 +1296,7 @@
     "path": "vue/src/input/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "InputMobile": {
     "path": "vue/src/input/src/mobile.vue",
@@ -1540,9 +1322,7 @@
     "path": "vue/src/ip-address/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "IpAddressPc": {
     "path": "vue/src/ip-address/src/pc.vue",
@@ -1553,9 +1333,7 @@
     "path": "vue/src/label/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "LabelMobile": {
     "path": "vue/src/label/src/mobile.vue",
@@ -1566,9 +1344,7 @@
     "path": "vue/src/layout/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "LayoutPc": {
     "path": "vue/src/layout/src/pc.vue",
@@ -1579,17 +1355,13 @@
     "path": "vue/src/link/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "LinkMenu": {
     "path": "vue/src/link-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "LinkMenuPc": {
     "path": "vue/src/link-menu/src/pc.vue",
@@ -1605,19 +1377,13 @@
     "path": "vue/src/list/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "Loading": {
     "path": "vue/src/loading/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "LoadingMobile": {
     "path": "vue/src/loading/src/mobile.vue",
@@ -1643,25 +1409,19 @@
     "path": "vue/src/locales/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "LogonUser": {
     "path": "vue/src/logon-user/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Logout": {
     "path": "vue/src/logout/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "LogoutPc": {
     "path": "vue/src/logout/src/pc.vue",
@@ -1672,17 +1432,13 @@
     "path": "vue/src/mask/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "Menu": {
     "path": "vue/src/menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "Message": {
     "path": "vue/src/message/index.ts",
@@ -1693,9 +1449,7 @@
     "path": "vue/src/milestone/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "MilestonePc": {
     "path": "vue/src/milestone/src/pc.vue",
@@ -1706,9 +1460,7 @@
     "path": "vue/src/mind-map/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "MindMapPc": {
     "path": "vue/src/mind-map/src/pc.vue",
@@ -1719,19 +1471,13 @@
     "path": "vue/src/mini-picker/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "Modal": {
     "path": "vue/src/modal/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "ModalMobile": {
     "path": "vue/src/modal/src/mobile.vue",
@@ -1752,33 +1498,25 @@
     "path": "vue/src/month-range/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "MonthTable": {
     "path": "vue/src/month-table/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "MultiSelect": {
     "path": "vue/src/multi-select/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "MultiSelectItem": {
     "path": "vue/src/multi-select-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "MultiSelectItemMobile": {
     "path": "vue/src/multi-select-item/src/mobile.vue",
@@ -1794,17 +1532,13 @@
     "path": "vue/src/nav-bar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "NavMenu": {
     "path": "vue/src/nav-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "NavMenuPc": {
     "path": "vue/src/nav-menu/src/pc.vue",
@@ -1815,19 +1549,13 @@
     "path": "vue/src/notify/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Numeric": {
     "path": "vue/src/numeric/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "NumericMobile": {
     "path": "vue/src/numeric/src/mobile.vue",
@@ -1848,19 +1576,13 @@
     "path": "vue/src/option/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "OptionGroup": {
     "path": "vue/src/option-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "OptionGroupMobileFirst": {
     "path": "vue/src/option-group/src/mobile-first.vue",
@@ -1886,19 +1608,13 @@
     "path": "vue/src/pager/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "PagerItem": {
     "path": "vue/src/pager-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "PagerItemMobileFirst": {
     "path": "vue/src/pager-item/src/mobile-first.vue",
@@ -1924,9 +1640,7 @@
     "path": "vue/src/panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "PanelPc": {
     "path": "vue/src/panel/src/pc.vue",
@@ -1937,18 +1651,13 @@
     "path": "vue/src/picker/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "PickerColumn": {
     "path": "vue/src/picker-column/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "PickerMobileFirst": {
     "path": "vue/src/picker/src/mobile-first.vue",
@@ -1964,9 +1673,7 @@
     "path": "vue/src/pop-upload/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "PopUploadPc": {
     "path": "vue/src/pop-upload/src/pc.vue",
@@ -1977,10 +1684,7 @@
     "path": "vue/src/popconfirm/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "PopconfirmMobileFirst": {
     "path": "vue/src/popconfirm/src/mobile-first.vue",
@@ -1996,9 +1700,7 @@
     "path": "vue/src/popeditor/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "PopeditorPc": {
     "path": "vue/src/popeditor/src/pc.vue",
@@ -2009,11 +1711,7 @@
     "path": "vue/src/popover/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "PopoverMobile": {
     "path": "vue/src/popover/src/mobile.vue",
@@ -2034,19 +1732,13 @@
     "path": "vue/src/popup/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Progress": {
     "path": "vue/src/progress/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "ProgressMobile": {
     "path": "vue/src/progress/src/mobile.vue",
@@ -2067,10 +1759,7 @@
     "path": "vue/src/pull-refresh/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile"
-    ]
+    "mode": ["mobile-first", "mobile"]
   },
   "PullRefreshMobile": {
     "path": "vue/src/pull-refresh/src/mobile.vue",
@@ -2086,44 +1775,31 @@
     "path": "vue/src/qr-code/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "QuarterPanel": {
     "path": "vue/src/quarter-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "QueryBuilder": {
     "path": "vue/src/query-builder/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Radio": {
     "path": "vue/src/radio/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "RadioButton": {
     "path": "vue/src/radio-button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "RadioButtonMobileFirst": {
     "path": "vue/src/radio-button/src/mobile-first.vue",
@@ -2139,10 +1815,7 @@
     "path": "vue/src/radio-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "RadioGroupMobileFirst": {
     "path": "vue/src/radio-group/src/mobile-first.vue",
@@ -2173,10 +1846,7 @@
     "path": "vue/src/rate/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "RateMobileFirst": {
     "path": "vue/src/rate/src/mobile-first.vue",
@@ -2192,9 +1862,7 @@
     "path": "vue/src/record/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "RecordMobileFirst": {
     "path": "vue/src/record/src/mobile-first.vue",
@@ -2205,9 +1873,7 @@
     "path": "vue/src/recycle-scroller/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "RecycleScrollerPc": {
     "path": "vue/src/recycle-scroller/src/pc.vue",
@@ -2218,25 +1884,19 @@
     "path": "vue/src/rich-text/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "RichTextEditor": {
     "path": "vue/src/rich-text-editor/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "River": {
     "path": "vue/src/river/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "RiverPc": {
     "path": "vue/src/river/src/pc.vue",
@@ -2247,9 +1907,7 @@
     "path": "vue/src/roles/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "RolesPc": {
     "path": "vue/src/roles/src/pc.vue",
@@ -2260,9 +1918,7 @@
     "path": "vue/src/row/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "RowPc": {
     "path": "vue/src/row/src/pc.vue",
@@ -2278,9 +1934,7 @@
     "path": "vue/src/scroll-text/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ScrollTextPc": {
     "path": "vue/src/scroll-text/src/pc.vue",
@@ -2291,19 +1945,13 @@
     "path": "vue/src/scrollbar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Search": {
     "path": "vue/src/search/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "SearchMobile": {
     "path": "vue/src/search/src/mobile.vue",
@@ -2324,19 +1972,13 @@
     "path": "vue/src/select/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "SelectDropdown": {
     "path": "vue/src/select-dropdown/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "SelectDropdownMobileFirst": {
     "path": "vue/src/select-dropdown/src/mobile-first.vue",
@@ -2352,9 +1994,7 @@
     "path": "vue/src/select-mobile/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "SelectMobileFirst": {
     "path": "vue/src/select/src/mobile-first.vue",
@@ -2370,18 +2010,13 @@
     "path": "vue/src/select-view/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "SelectedBox": {
     "path": "vue/src/selected-box/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "SelectedBoxMobileFirst": {
     "path": "vue/src/selected-box/src/mobile-first.vue",
@@ -2397,9 +2032,7 @@
     "path": "vue/src/signature/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "SignatureMobileFirst": {
     "path": "vue/src/signature/src/mobile-first.vue",
@@ -2410,17 +2043,13 @@
     "path": "vue/src/skeleton/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "SkeletonItem": {
     "path": "vue/src/skeleton-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "SkeletonItemPc": {
     "path": "vue/src/skeleton-item/src/pc.vue",
@@ -2436,27 +2065,19 @@
     "path": "vue/src/slider/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "SliderButton": {
     "path": "vue/src/slider-button/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "SliderButtonGroup": {
     "path": "vue/src/slider-button-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "SliderButtonGroupMobileFirst": {
     "path": "vue/src/slider-button-group/src/mobile-first.vue",
@@ -2487,9 +2108,7 @@
     "path": "vue/src/split/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "SplitPc": {
     "path": "vue/src/split/src/pc.vue",
@@ -2500,17 +2119,13 @@
     "path": "vue/src/standard-list-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "Statistic": {
     "path": "vue/src/statistic/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "StatisticPc": {
     "path": "vue/src/statistic/src/pc.vue",
@@ -2521,10 +2136,7 @@
     "path": "vue/src/steps/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "StepsMobileFirst": {
     "path": "vue/src/steps/src/mobile-first.vue",
@@ -2540,19 +2152,13 @@
     "path": "vue/src/svg-icon/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Switch": {
     "path": "vue/src/switch/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "SwitchMobile": {
     "path": "vue/src/switch/src/mobile.vue",
@@ -2573,10 +2179,7 @@
     "path": "vue/src/tab-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TabItemMobileFirst": {
     "path": "vue/src/tab-item/src/mobile-first.vue",
@@ -2592,19 +2195,13 @@
     "path": "vue/src/tabbar/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile"
-    ]
+    "mode": ["mobile-first", "mobile"]
   },
   "TabbarItem": {
     "path": "vue/src/tabbar-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile"
-    ]
+    "mode": ["mobile-first", "mobile"]
   },
   "TabbarItemMobile": {
     "path": "vue/src/tabbar-item/src/mobile.vue",
@@ -2630,10 +2227,7 @@
     "path": "vue/src/table/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile", "pc"]
   },
   "TableMobile": {
     "path": "vue/src/table/src/mobile.vue",
@@ -2649,11 +2243,7 @@
     "path": "vue/src/tabs/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "TabsMobile": {
     "path": "vue/src/tabs/src/mobile.vue",
@@ -2674,20 +2264,13 @@
     "path": "vue/src/tag/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "TagGroup": {
     "path": "vue/src/tag-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TagGroupMobileFirst": {
     "path": "vue/src/tag-group/src/mobile-first.vue",
@@ -2718,9 +2301,7 @@
     "path": "vue/src/text-popup/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TextPopupPc": {
     "path": "vue/src/text-popup/src/pc.vue",
@@ -2731,20 +2312,13 @@
     "path": "vue/src/time/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TimeLine": {
     "path": "vue/src/time-line/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "TimeLineMobile": {
     "path": "vue/src/time-line/src/mobile.vue",
@@ -2770,10 +2344,7 @@
     "path": "vue/src/time-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TimePanelMobileFirst": {
     "path": "vue/src/time-panel/src/mobile-first.vue",
@@ -2794,42 +2365,31 @@
     "path": "vue/src/time-picker/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TimePickerMobile": {
     "path": "vue/src/time-picker-mobile/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "TimeRange": {
     "path": "vue/src/time-range/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TimeSelect": {
     "path": "vue/src/time-select/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TimeSpinner": {
     "path": "vue/src/time-spinner/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TimeSpinnerMobileFirst": {
     "path": "vue/src/time-spinner/src/mobile-first.vue",
@@ -2845,9 +2405,7 @@
     "path": "vue/src/timeline-item/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TimelineItemPc": {
     "path": "vue/src/timeline-item/src/pc.vue",
@@ -2858,9 +2416,7 @@
     "path": "vue/src/toast/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "ToastMobile": {
     "path": "vue/src/toast/src/mobile.vue",
@@ -2871,9 +2427,7 @@
     "path": "vue/src/toggle-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "ToggleMenuPc": {
     "path": "vue/src/toggle-menu/src/pc.vue",
@@ -2884,10 +2438,7 @@
     "path": "vue/src/tooltip/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "TooltipMobileFirst": {
     "path": "vue/src/tooltip/src/mobile-first.vue",
@@ -2903,9 +2454,7 @@
     "path": "vue/src/top-box/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TopBoxPc": {
     "path": "vue/src/top-box/src/pc.vue",
@@ -2916,17 +2465,13 @@
     "path": "vue/src/transfer/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TransferPanel": {
     "path": "vue/src/transfer-panel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TransferPc": {
     "path": "vue/src/transfer/src/pc.vue",
@@ -2937,17 +2482,13 @@
     "path": "vue/src/tree/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TreeMenu": {
     "path": "vue/src/tree-menu/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "TreeMenuPc": {
     "path": "vue/src/tree-menu/src/pc.vue",
@@ -2963,19 +2504,13 @@
     "path": "vue/src/upload/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "UploadDragger": {
     "path": "vue/src/upload-dragger/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "pc"
-    ]
+    "mode": ["mobile-first", "pc"]
   },
   "UploadDraggerMobileFirst": {
     "path": "vue/src/upload-dragger/src/mobile-first.vue",
@@ -2991,11 +2526,7 @@
     "path": "vue/src/upload-list/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "UploadListMobile": {
     "path": "vue/src/upload-list/src/mobile.vue",
@@ -3026,17 +2557,13 @@
     "path": "vue/src/user/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "UserAccount": {
     "path": "vue/src/user-account/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "UserAccountPc": {
     "path": "vue/src/user-account/src/pc.vue",
@@ -3047,9 +2574,7 @@
     "path": "vue/src/user-contact/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "UserContactPc": {
     "path": "vue/src/user-contact/src/pc.vue",
@@ -3060,19 +2585,13 @@
     "path": "vue/src/user-head/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first",
-      "mobile",
-      "pc"
-    ]
+    "mode": ["mobile-first", "mobile", "pc"]
   },
   "UserHeadGroup": {
     "path": "vue/src/user-head-group/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile-first"
-    ]
+    "mode": ["mobile-first"]
   },
   "UserHeadGroupMobileFirst": {
     "path": "vue/src/user-head-group/src/mobile-first.vue",
@@ -3098,9 +2617,7 @@
     "path": "vue/src/user-link/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "UserLinkPc": {
     "path": "vue/src/user-link/src/pc.vue",
@@ -3112,29 +2629,34 @@
     "type": "template",
     "exclude": false
   },
+  "VirtualScroll": {
+    "path": "vue/src/virtual-scroll/index.ts",
+    "type": "component",
+    "exclude": false,
+    "mode": ["pc"]
+  },
+  "VirtualScrollPc": {
+    "path": "vue/src/virtual-scroll/src/pc.vue",
+    "type": "template",
+    "exclude": false
+  },
   "Watermark": {
     "path": "vue/src/watermark/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "Wheel": {
     "path": "vue/src/wheel/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "mobile"
-    ]
+    "mode": ["mobile"]
   },
   "Wizard": {
     "path": "vue/src/wizard/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "WizardPc": {
     "path": "vue/src/wizard/src/pc.vue",
@@ -3145,16 +2667,12 @@
     "path": "vue/src/year-range/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   },
   "YearTable": {
     "path": "vue/src/year-table/index.ts",
     "type": "component",
     "exclude": false,
-    "mode": [
-      "pc"
-    ]
+    "mode": ["pc"]
   }
 }

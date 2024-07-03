@@ -4,7 +4,16 @@
   "private": true,
   "packageManager": "pnpm@8.3.1",
   "description": "An enterprise-class UI component library, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.",
+  "author": "OpenTiny Team",
+  "license": "MIT",
   "homepage": "https://opentiny.design/tiny-vue",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:opentiny/tiny-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opentiny/tiny-vue/issues"
+  },
   "keywords": [
     "vue",
     "vue3",
@@ -16,15 +25,6 @@
     "renderless-components",
     "headless-components"
   ],
-  "author": "OpenTiny Team",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:opentiny/tiny-vue.git"
-  },
-  "bugs": {
-    "url": "https://github.com/opentiny/tiny-vue/issues"
-  },
   "main": "packages/index.js",
   "engines": {
     "node": ">=16",
@@ -158,6 +158,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.6",
+    "@commitlint/config-conventional": "^18.4.3",
     "@types/color": "^3.0.3",
     "@types/eslint": "^8.4.10",
     "@types/node": "^18.11.18",
@@ -167,6 +168,7 @@
     "@volar-plugins/prettier": "^2.0.0",
     "@volar-plugins/prettyhtml": "^2.0.0",
     "@vue/tsconfig": "^0.4.0",
+    "commitlint": "^18.4.3",
     "depcheck": "1.4.3",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.8.0",
@@ -179,11 +181,9 @@
     "gulp-less": "^5.0.0",
     "gulp-svg-inline": "^1.0.1",
     "gulp-transform": "^3.0.5",
+    "husky": "^8.0.3",
     "lerna": "^6.4.0",
     "lint-staged": "^15.2.0",
-    "husky": "^8.0.3",
-    "commitlint": "^18.4.3",
-    "@commitlint/config-conventional": "^18.4.3",
     "minimist": "^1.2.8",
     "node-xlsx": "^0.21.0",
     "prettier": "^3.0.0",

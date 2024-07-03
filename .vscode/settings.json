@@ -24,7 +24,14 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "stylelint.validate": ["css", "less", "postcss", "scss", "sass"],
+  // prettier-ignore
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "scss",
+    "sass"
+  ],
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
     {
@@ -82,5 +89,16 @@
       "italic": false
     }
   ],
-  "vue.codeActions.enabled": false
+  "vue.codeActions.enabled": false,
+  // 这两行是我的程序中有的
+  // "liveServer.settings.CustomBrowser": "chrome",
+  // "liveServer.settings.fullReload": false,
+  // 这行是不知道为什么？？
+  // prettier-ignore
+  "cSpell.words": [
+    "opentiny",
+    "postversion",
+    "renderless"
+  ]
 }
+// prettier-ignore
