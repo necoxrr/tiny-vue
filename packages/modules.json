@@ -2635,11 +2635,6 @@
     "exclude": false,
     "mode": ["pc"]
   },
-  "VirtualScrollPc": {
-    "path": "vue/src/virtual-scroll/src/pc.vue",
-    "type": "template",
-    "exclude": false
-  },
   "Watermark": {
     "path": "vue/src/watermark/index.ts",
     "type": "component",

@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- <TinyVirtualScroll /> -->
     <div class="option-row">
       <span> 连接线：</span>
       <tiny-radio-group v-model="showLine">
@@ -37,6 +38,7 @@
 <script lang="jsx">
 import { Tree, RadioGroup, Radio } from '@opentiny/vue'
 
+// TinyVirtualScroll:VirtualScroll
 export default {
   components: {
     TinyTree: Tree,
@@ -88,6 +90,7 @@ export default {
   margin-top: 16px;
   margin-bottom: 16px;
 }
+
 .option-row > span {
   font-size: 18px;
 }
