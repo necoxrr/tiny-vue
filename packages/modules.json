@@ -3157,6 +3157,12 @@
     "type": "template",
     "exclude": false
   },
+  "VirtualScroll": {
+    "path": "vue/src/virtual-scroll/src/undefined.vue",
+    "type": "template",
+    "exclude": false,
+    "mode": "all"
+  },
   "Watermark": {
     "path": "vue/src/watermark/index.ts",
     "type": "component",
